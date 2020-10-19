@@ -2,7 +2,7 @@
 server:
   port: 8080
 
-#数据库链接设置
+#数据库链接设置数据
 spring:
   application:
     # 应用名称
